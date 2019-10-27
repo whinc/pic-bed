@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-27T10:32:24.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="JuRxp-gcQM6aX3jte4TX" version="12.1.7" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-10-27T10:35:35.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="_9BYNq8OW5cRW43QTvsz" version="12.1.7" type="github" pages="2">
   <diagram id="aMfh76vUlQ8AYSwZjabr" name="第 1 页">
     <mxGraphModel dx="1356" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="LUoadSvIQ4rj653Hsvp3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="LUoadSvIQ4rj653Hsvp3-1" source="LUoadSvIQ4rj653Hsvp3-3" target="LUoadSvIQ4rj653Hsvp3-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="LUoadSvIQ4rj653Hsvp3-15" value="Events&lt;br&gt;eg. click button" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="LUoadSvIQ4rj653Hsvp3-9">
+        <mxCell id="LUoadSvIQ4rj653Hsvp3-15" value="Events&lt;br&gt;e.g. click button" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="LUoadSvIQ4rj653Hsvp3-9">
           <mxGeometry x="-0.5508" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUoadSvIQ4rj653Hsvp3-17" value="Events&lt;br&gt;eg. network response, setTimeout" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="LUoadSvIQ4rj653Hsvp3-16">
+        <mxCell id="LUoadSvIQ4rj653Hsvp3-17" value="Events&lt;br&gt;e.g. network response, setTimeout" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=18;" vertex="1" connectable="0" parent="LUoadSvIQ4rj653Hsvp3-16">
           <mxGeometry x="0.2" y="-3" relative="1" as="geometry">
             <mxPoint x="-3" y="14" as="offset"/>
           </mxGeometry>
